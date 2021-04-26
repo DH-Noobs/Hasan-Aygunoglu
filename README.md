@@ -2,7 +2,7 @@
 
 Projeler
 
-[Chat Uygulaması (Firebase Firestore)](https://github.com/aygunoglu/Flash-Chat)
+[Chat Uygulaması (Firebase Firestore ile)](https://github.com/aygunoglu/Flash-Chat)
 
 [Hava Durumu Uygulaması](https://github.com/aygunoglu/Clima-App)
 
